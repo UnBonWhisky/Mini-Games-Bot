@@ -1,4 +1,4 @@
-# Mini-Games-Bot
+# Mini-Games Bot
 
 Here you can find a personnal project I made and actually self-host. It is my own discord bot, made with discord.py, discord-interactions, and sqlite3.
 
